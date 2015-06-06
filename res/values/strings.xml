@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhoneUse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="screen_wake_up">Wake Up</string>
+    <string name="screen_dim">Dim</string>
+    <string name="screen_user_present">User Present</string>
+    <string name="string_start">Start</string>
+    <string name="string_stop">Stop</string>
+    <string name="string_error_title">Permission Error</string>
+    <string name="string_error_msg">You need to set usage setting enable for our application. Press OK to go to Setting Screen.</string>
+    <string name="string_showBy">Show By</string>
+    <string name="string_setting">Setting</string>
+    <string name="string_Today">Today</string>
+    <string name="string_Weekly">Weekly</string>
+    <string name="string_Monthly">Monthly</string>
+    <string name="string_Yearly">Yearly</string>
+    <string name="string_Custom">Custom</string>
+    <string name="string_start_date">Start Date</string>
+    <string name="string_end_date">End Date</string>
+    <string name="string_error_end_date_greater_than_today">End date cannot be greater than Today date.</string>
+    <string name="string_error_start_date_greater_than_today">Start date cannot be greater than Today date.</string>
+    <string name="string_error_end_date_lesser_than_start">End date cannot be lesser than Start date.</string>
+    <string name="string_select_packages_dialog_title">Please select packages that you want to track.</string>
+    <string name="string_Ok">OK</string>
+    <string name="string_Cancel">Cancel</string>
+    <string name="string_select_packages_pref_title">Package Monitering.</string>
+    <string name="string_select_packages_maximum_app_toast">You can not select more than 5 applications.</string>
+
+</resources>
