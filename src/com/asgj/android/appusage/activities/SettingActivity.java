@@ -12,6 +12,9 @@ public class SettingActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
+		if(true){
+		     
+		}
 		getActionBar().setDisplayShowHomeEnabled(false);
 		getActionBar().setDisplayHomeAsUpEnabled(true);
 		 FragmentManager mFragmentManager = getFragmentManager();
